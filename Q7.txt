@@ -1,5 +1,3 @@
-Q-7
-
 package com.spring.rest7;
 
 import java.util.List;
@@ -175,19 +173,6 @@ public class orderService {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
