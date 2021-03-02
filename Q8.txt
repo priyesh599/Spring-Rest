@@ -1,5 +1,3 @@
-Q-8
-
 package com.spring.rest8;
 
 import java.util.List;
